@@ -1,4 +1,4 @@
-12# Investment Calculator
+# Investment Calculator
 def calculate_future_value(present_value, annual_rate, periods):
     future_value = present_value * (1 + annual_rate) ** periods
     return future_value
